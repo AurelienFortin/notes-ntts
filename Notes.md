@@ -45,3 +45,47 @@ Prise de note personnelle
 <br/> **Utilité évaluée à court terme :** <img src="etoile.png" alt="1 étoile" height="20px"/><img src="etoile.png" alt="1 étoile" height="20px"/>
 
 
+* [_Flexible Household Budget Survey diary creator -  build the questionnaire from provided components_](https://coms.events/NTTS2021/data/abstracts/en/abstract_0008.html)
+<br/> **Synthèse :** Présentation technique sur la façon de mettre en place un questionnaire. Pas utile pour nous.
+<br/> [**Lien vers l'abstract**](https://coms.events/NTTS2021/data/x_abstracts/x_abstract_111.docx)
+<br/> **Utilité évaluée à court terme :** 
+
+* [_SOURCETM - Software Outreach and Redefinition to Collect E-data Through MOTUS: Towards a Modular Online Time Use Survey_](https://coms.events/NTTS2021/data/abstracts/en/abstract_0013.html)
+<br/> **Synthèse :** Présentation de la plateforme "MOTUS" (Modular Online Time Use Survey). Pas vraiment vu l'intérêt pour nous non plus.
+<br/> [**Lien vers l'abstract**](https://coms.events/NTTS2021/data/x_abstracts/x_abstract_46.pdf)
+<br/> **Utilité évaluée à court terme :**
+
+### Séance "Spatial and spatio-temporal models"
+
+* [_Beyond GDP: an analysis of the socio-economic diversity of European regions_](https://coms.events/NTTS2021/data/abstracts/en/abstract_0015.html)
+<br/> **Synthèse :** Le papier présente l'utilisation d'une analyse factorielle à partir d'indicateurs régionaux, calculé sur la période 2000-2015 en europe. Ils illustrent le fait que la convergence socio-économique (leur premier axe) converge moins longtemps en Europe que le PIB par tête. Intellectuellement intéressant, mais peu réutilisable pour nous il me semble.
+<br/> [**Lien vers l'abstract**](https://coms.events/NTTS2021/data/x_abstracts/x_abstract_97.pdf)
+<br/> **Utilité évaluée à court terme :**
+
+* [_Probit models for grouped-data migration flows: A theoretical note_](https://coms.events/NTTS2021/data/abstracts/en/abstract_0004.html)
+<br/> **Synthèse :** Papier sur une proposition de modélisation des flux migratoires. Pas forcément utile pour nous ?
+<br/> [**Lien vers l'abstract**](https://coms.events/NTTS2021/data/x_abstracts/x_abstract_193.docx)
+<br/> **Utilité évaluée à court terme :**
+
+* [_The U.S. Interstate Trade Will Overcome the Negative Impact of Climate Change on Crop Profit_](https://coms.events/NTTS2021/data/abstracts/en/abstract_0009.html)
+<br/> **Synthèse :** Papier qui essaie d'évaluer si les épisodes climatiques (notamment sécheresse) peuvent avoir un impact négatif sur la fourniture alimentaire. Et en conclut que non, grâce au commerce. Assez peu réexploitable pour nous, sauf dans le cadre d'une étude.
+<br/> [**Lien vers l'abstract**](https://coms.events/NTTS2021/data/x_abstracts/x_abstract_192.docx)
+<br/> **Utilité évaluée à court terme :**
+
+### Séance "Open source"
+
+* [_Official Statistics From Satellite Data – The example of Artificial Light Emissions in Ireland_](https://coms.events/NTTS2021/data/abstracts/en/abstract_0005.html)
+<br/> **Synthèse :** A partir de données satellites, calcule les émissions de lumière dans différents pays européens. Il me semble que c'est tout à fait intéressant pour nous, au sens où cela pourrait donner lieu à une statistique expérimentale, non ?
+<br/> [**Lien vers l'abstract**](https://coms.events/NTTS2021/data/x_abstracts/x_abstract_26.docx)
+<br/> **Utilité évaluée à court terme :** <img src="etoile.png" alt="1 étoile" height="20px"/><img src="etoile.png" alt="1 étoile" height="20px"/><img src="etoile.png" alt="1 étoile" height="20px"/>
+
+* [_From raw telco data to final statistics: a modular process with synthetic network event data_](https://coms.events/NTTS2021/data/abstracts/en/abstract_0010.html)
+<br/> **Synthèse :** Présentation par l'INE de ses travaux pour transformer des données de téléphonie mobile en données de population présente. Evidemment intéressant, sans doute pas une surprise :)
+<br/> [**Lien vers l'abstract**](https://coms.events/NTTS2021/data/x_abstracts/x_abstract_53.pdf)
+<br/> **Utilité évaluée à court terme :** <img src="etoile.png" alt="1 étoile" height="20px"/><img src="etoile.png" alt="1 étoile" height="20px"/><img src="etoile.png" alt="1 étoile" height="20px"/>
+
+* [_An open-source tool for experimenting with noise-based perturbation schemes_](https://coms.events/NTTS2021/data/abstracts/en/abstract_0014.html)
+<br/> **Synthèse :** Article pas très clair pour moi, qui part du principe qu'il y a du bruit dans les données collectées, mais qu'on peut essayer de le réduire. Intéressant dans le principe, m'a l'air compliqué en pratique (même s'ils proposent un outil), pour une applicabilité peu claire.
+<br/> [**Lien vers l'abstract**](https://coms.events/NTTS2021/data/x_abstracts/x_abstract_105.pdf)
+<br/> **Utilité évaluée à court terme :** <img src="etoile.png" alt="1 étoile" height="20px"/><img src="etoile.png" alt="1 étoile" height="20px"/><img src="etoile.png" alt="1 étoile" height="20px"/>
+
