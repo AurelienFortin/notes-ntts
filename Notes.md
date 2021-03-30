@@ -87,5 +87,19 @@ Prise de note personnelle
 * [_An open-source tool for experimenting with noise-based perturbation schemes_](https://coms.events/NTTS2021/data/abstracts/en/abstract_0014.html)
 <br/> **Synthèse :** Article pas très clair pour moi, qui part du principe qu'il y a du bruit dans les données collectées, mais qu'on peut essayer de le réduire. Intéressant dans le principe, m'a l'air compliqué en pratique (même s'ils proposent un outil), pour une applicabilité peu claire.
 <br/> [**Lien vers l'abstract**](https://coms.events/NTTS2021/data/x_abstracts/x_abstract_105.pdf)
+<br/> **Utilité évaluée à court terme :** 
+
+### Séance "Spotlight session - Trusted Smart Statistics"  [Présentations très courtes]
+
+* [_Estimating solar energy yields from citizen science and satellite data_](https://coms.events/NTTS2021/data/abstracts/en/abstract_0035.html)
+<br/> **Synthèse :** Intervention courte mais intéressante puisqu'ils expliquent comment ils mesurent la production d'énergie solaire à partir à la fois d'une base recensant les équipements solaires, et d'image satellites qui permettent de calculer l'ensoleillement. Possible expérimentation pour stat expérimentale chez nous ?
+<br/> [**Lien vers l'abstract**](https://coms.events/NTTS2021/data/x_abstracts/x_abstract_15.docx)
 <br/> **Utilité évaluée à court terme :** <img src="etoile.png" alt="1 étoile" height="20px"/><img src="etoile.png" alt="1 étoile" height="20px"/><img src="etoile.png" alt="1 étoile" height="20px"/>
+
+* [_Towards Big Data methodology: a generic Big Data based statistical process_](https://coms.events/NTTS2021/data/abstracts/en/abstract_0033.html)
+<br/> **Synthèse :** Intervention courte mais intéressante puisqu'ils expliquent comment ils mesurent la production d'énergie solaire à partir à la fois d'une base recensant les équipements solaires, et d'image satellites qui permettent de calculer l'ensoleillement. Possible expérimentation pour stat expérimentale chez nous ?
+<br/> [**Lien vers l'abstract**](https://coms.events/NTTS2021/data/x_abstracts/x_abstract_34.docx)
+<br/> **Utilité évaluée à court terme :** <img src="etoile.png" alt="1 étoile" height="20px"/><img src="etoile.png" alt="1 étoile" height="20px"/><img src="etoile.png" alt="1 étoile" height="20px"/>
+
+
 
