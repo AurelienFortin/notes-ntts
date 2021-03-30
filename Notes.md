@@ -104,6 +104,7 @@ Prise de note personnelle
 <br/>
 
 | Statistics                                  | Data sources                          | Countries  | Status                    |
+| ------------------------------------------- | ------------------------------------- | ---------- | ------------------------- |
 | Consumer Price Index                        | Scanner data, web scraped prices      |  Various   | In production             |
 | Traffic intensitie                          | Road sensors                          |  NL        | In production             |
 | Online job vacancies                        | Scraped job vacancies                 | ESSnet     | Towards implementation    |
