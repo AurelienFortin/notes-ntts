@@ -7,5 +7,5 @@ Prise de note personnelle
 
 * [Building a geo-referenced microsimulation model with discrete optimization](https://coms.events/NTTS2021/data/abstracts/en/abstract_0002.html)
 <u> Synthèse : répartir une population dans des logements géolocalisés au moyen d'un modèle de microsimulation. </u>
-<u> Lien vers l'abstract </u>
-<u> Utilité évaluée à court terme : </u> *
+<br/><u> Lien vers l'abstract </u>
+<br/><u> Utilité évaluée à court terme : </u> *
