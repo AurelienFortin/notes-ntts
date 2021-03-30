@@ -98,27 +98,22 @@ Prise de note personnelle
 
 * [_Towards Big Data methodology: a generic Big Data based statistical process_](https://coms.events/NTTS2021/data/abstracts/en/abstract_0033.html)
 <br/> **Synthèse :** L'intervention en elle même n'est pas très utile (en même temps, en 2'). Par contre, le papier contient une liste des statistiques expérimentales réalisées à partir de données de type BigData, et ça c'est quand même très intéressant ! Je reproduis le tableau rapidement ci-dessous :
-<br/>
-
-Statistics                                  | Data sources                          |Countries  | Status
-Consumer Price Index                        | Scanner data, web scraped prices      | Various   | In production
-Traffic intensitie                          | Road sensors                          | NL        | In production
-Online job vacancies                        | Scraped job vacancies                 | ESSnet    | Towards implementation
-Enterprise characteristics                  | Scraped websites                      | ESSnet    | Towards implementation
-Electricity/energy consumption              | Smart meter data                      | ESSnet    | Towards implementation
-Maritime and Inland waterway statistics     | Automatic Identification System data  | ESSnet    | Towards implementation
-Financial transaction based statistic       | Bank transaction data                 | ESSnet    |  Exploratory
-Earth observation derived statistics        |Satellite and Arial pictures           | ESSnet    | Towards implementation
-Mobile network derived statistics           | Mobile Network Operations data        | ESSnet    | Towards implementation
-Innovative tourism statistics               | Various sources (e.g. webpages)       | ESSnet    | Exploratory
-Innovative companies (small)                | Scraped websites                      | NL        | Towards implementation
-Social mood on economy index                | Social media messages                 | IT        | Experimental
-Mobile phone derived outbound tourism       | Mobile Network Operations data        | FI, EE    | Experimental
-
-
-
 <br/> [**Lien vers l'abstract**](https://coms.events/NTTS2021/data/x_abstracts/x_abstract_34.docx)
 <br/> **Utilité évaluée à court terme :** <img src="etoile.png" alt="1 étoile" height="20px"/><img src="etoile.png" alt="1 étoile" height="20px"/><img src="etoile.png" alt="1 étoile" height="20px"/>
 
+<br/>
 
-
+Statistics                                  | Data sources                          |Countries  | Status                    |
+Consumer Price Index                        | Scanner data, web scraped prices      | Various   | In production             |
+Traffic intensitie                          | Road sensors                          | NL        | In production             |
+Online job vacancies                        | Scraped job vacancies                 | ESSnet    | Towards implementation    |
+Enterprise characteristics                  | Scraped websites                      | ESSnet    | Towards implementation    |
+Electricity/energy consumption              | Smart meter data                      | ESSnet    | Towards implementation    |
+Maritime and Inland waterway statistics     | Automatic Identification System data  | ESSnet    | Towards implementation    |
+Financial transaction based statistic       | Bank transaction data                 | ESSnet    |  Exploratory              |
+Earth observation derived statistics        |Satellite and Arial pictures           | ESSnet    | Towards implementation    |
+Mobile network derived statistics           | Mobile Network Operations data        | ESSnet    | Towards implementation    |
+Innovative tourism statistics               | Various sources (e.g. webpages)       | ESSnet    | Exploratory               |
+Innovative companies (small)                | Scraped websites                      | NL        | Towards implementation    |
+Social mood on economy index                | Social media messages                 | IT        | Experimental              |
+Mobile phone derived outbound tourism       | Mobile Network Operations data        | FI, EE    | Experimental              |
