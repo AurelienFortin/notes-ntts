@@ -103,17 +103,17 @@ Prise de note personnelle
 
 <br/>
 
-| Statistics                                  | Data sources                          |Countries  | Status                    |
-| Consumer Price Index                        | Scanner data, web scraped prices      | Various   | In production             |
-| Traffic intensitie                          | Road sensors                          | NL        | In production             |
-| Online job vacancies                        | Scraped job vacancies                 | ESSnet    | Towards implementation    |
-| Enterprise characteristics                  | Scraped websites                      | ESSnet    | Towards implementation    |
-| Electricity/energy consumption              | Smart meter data                      | ESSnet    | Towards implementation    |
-| Maritime and Inland waterway statistics     | Automatic Identification System data  | ESSnet    | Towards implementation    |
-| Financial transaction based statistic       | Bank transaction data                 | ESSnet    |  Exploratory              |
-| Earth observation derived statistics        |Satellite and Arial pictures           | ESSnet    | Towards implementation    |
-| Mobile network derived statistics           | Mobile Network Operations data        | ESSnet    | Towards implementation    |
-| Innovative tourism statistics               | Various sources (e.g. webpages)       | ESSnet    | Exploratory               |
-| Innovative companies (small)                | Scraped websites                      | NL        | Towards implementation    |
-| Social mood on economy index                | Social media messages                 | IT        | Experimental              |
-| Mobile phone derived outbound tourism       | Mobile Network Operations data        | FI, EE    | Experimental              |
+| Statistics                                  | Data sources                          | Countries  | Status                    |
+| Consumer Price Index                        | Scanner data, web scraped prices      |  Various   | In production             |
+| Traffic intensitie                          | Road sensors                          |  NL        | In production             |
+| Online job vacancies                        | Scraped job vacancies                 | ESSnet     | Towards implementation    |
+| Enterprise characteristics                  | Scraped websites                      | ESSnet     | Towards implementation    |
+| Electricity/energy consumption              | Smart meter data                      | ESSnet     | Towards implementation    |
+| Maritime and Inland waterway statistics     | Automatic Identification System data  | ESSnet     | Towards implementation    |
+| Financial transaction based statistic       | Bank transaction data                 | ESSnet     |  Exploratory              |
+| Earth observation derived statistics        | Satellite and Arial pictures          | ESSnet     | Towards implementation    |
+| Mobile network derived statistics           | Mobile Network Operations data        | ESSnet     | Towards implementation    |
+| Innovative tourism statistics               | Various sources (e.g. webpages)       | ESSnet     | Exploratory               |
+| Innovative companies (small)                | Scraped websites                      | NL         | Towards implementation    |
+| Social mood on economy index                | Social media messages                 | IT         | Experimental              |
+| Mobile phone derived outbound tourism       | Mobile Network Operations data        | FI, EE     | Experimental              |
