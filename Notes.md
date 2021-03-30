@@ -97,7 +97,24 @@ Prise de note personnelle
 <br/> **Utilité évaluée à court terme :** <img src="etoile.png" alt="1 étoile" height="20px"/><img src="etoile.png" alt="1 étoile" height="20px"/><img src="etoile.png" alt="1 étoile" height="20px"/>
 
 * [_Towards Big Data methodology: a generic Big Data based statistical process_](https://coms.events/NTTS2021/data/abstracts/en/abstract_0033.html)
-<br/> **Synthèse :** Intervention courte mais intéressante puisqu'ils expliquent comment ils mesurent la production d'énergie solaire à partir à la fois d'une base recensant les équipements solaires, et d'image satellites qui permettent de calculer l'ensoleillement. Possible expérimentation pour stat expérimentale chez nous ?
+<br/> **Synthèse :** L'intervention en elle même n'est pas très utile (en même temps, en 2'). Par contre, le papier contient une liste des statistiques expérimentales réalisées à partir de données de type BigData, et ça c'est quand même très intéressant ! Je reproduis le tableau rapidement ci-dessous :
+No.	Statistics	Data sources	Countries	Status	Ref.
+1	Consumer Price Index	Scanner data, web scraped prices	Various countries	In production	[2]
+2	Traffic intensities	Road sensors	NL	In production	[3]
+3	Online job vacancies	Scraped job vacancies	ESSnet	Towards implementation	[4]
+4	Enterprise characteristics	Scraped websites	ESSnet	Towards implementation	[4]
+5	Electricity/energy consumption	Smart meter data	ESSnet	Towards implementation	[4]
+6	Maritime and Inland waterway statistics	Automatic Identification System data	ESSnet	Towards implementation	[4]
+7	Financial transaction based statistic	Bank transaction data	ESSnet	Exploratory	[5]
+8	Earth observation derived statistics	Satellite and Arial pictures	ESSnet	Towards implementation	[4,5]
+9	Mobile network derived statistics	Mobile Network Operations data	ESSnet	Towards implementation	[5]
+10	Innovative tourism statistics	Various sources (e.g. webpages)	ESSnet	Exploratory	[5]
+11	Innovative companies (small)	Scraped websites	NL	Towards implementation	[6]
+12	Social mood on economy index	Social media messages	IT	Experimental	[7]
+13	Mobile phone derived outbound tourism	Mobile Network Operations data	FI, EE	Experimental	[8,9]
+
+
+
 <br/> [**Lien vers l'abstract**](https://coms.events/NTTS2021/data/x_abstracts/x_abstract_34.docx)
 <br/> **Utilité évaluée à court terme :** <img src="etoile.png" alt="1 étoile" height="20px"/><img src="etoile.png" alt="1 étoile" height="20px"/><img src="etoile.png" alt="1 étoile" height="20px"/>
 
