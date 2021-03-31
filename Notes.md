@@ -118,3 +118,30 @@ Prise de note personnelle
 | Innovative companies (small)                | Scraped websites                      | NL         | Towards implementation    |
 | Social mood on economy index                | Social media messages                 | IT         | Experimental              |
 | Mobile phone derived outbound tourism       | Mobile Network Operations data        | FI, EE     | Experimental              |
+
+* [_Towards the Use of Smart Systems Data for Official Statistics_](https://coms.events/NTTS2021/data/abstracts/en/abstract_0037.html)
+<br/> **Synthèse : Présentation des résultats de l'ESS NET Big Data 2 (2018-2020). Ont expertisé la possibilité d'utiliser l'IOT (Internet of Things) pour obtenir des statistiques (exemple : smart traffic, smart cities,... ). En concluent que "public sector device data and community-generated device data are considered the most promising and recommended for further testing". Usage potentiel également du traffic loop data.
+<br/> [**Lien vers l'abstract**](https://coms.events/NTTS2021/data/x_abstracts/x_abstract_142.docx)
+<br/> **Utilité évaluée à court terme :** <img src="etoile.png" alt="1 étoile" height="20px"/>
+
+* [_Computation of consumer spatial price indexes over time using Natural Language Processing and web scraping techniques_](https://coms.events/NTTS2021/data/abstracts/en/abstract_0032.html)
+<br/> **Synthèse : Présentation de travaux qui consistent à scraper des données pour faire des prix. Utilité modérée car déjà utilisé à l'Insee, sauf en termes de comparaison avec ce qui est fait ailleurs
+<br/> [**Lien vers l'abstract**](https://coms.events/NTTS2021/data/x_abstracts/x_abstract_159.pdf)
+<br/> **Utilité évaluée à court terme :** <img src="etoile.png" alt="1 étoile" height="20px"/><img src="etoile.png" alt="1 étoile" height="20px"/>
+
+* [_Grid data and Confidentiality_](https://coms.events/NTTS2021/data/abstracts/en/abstract_0031.html)
+<br/> **Synthèse : Présentation Insee. Réflexion sur le secret stat en géographie.
+<br/> [**Lien vers l'abstract**](https://coms.events/NTTS2021/data/x_abstracts/x_abstract_164.pdf)
+<br/> **Utilité évaluée à court terme :** <img src="Logo_Insee.png" alt="Logo Insee" height="20px"/>
+
+* [_An application of BREAL to sensor data_](https://coms.events/NTTS2021/data/abstracts/en/abstract_0036.html)
+<br/> **Synthèse : BREAL est une architecture Big Data. La présentation montre son application dans le cadre de production de statistiques avec des "smart meters" (high frequency reading of electricity consumption). L'Insee est déjà impliqué dans BREAL (Arnaud Degorre, Frédéric Gallois)
+<br/> [**Lien vers l'abstract**](https://coms.events/NTTS2021/data/x_abstracts/x_abstract_186.docx)
+<br/> **Utilité évaluée à court terme :** <img src="etoile.png" alt="1 étoile" height="20px"/>
+
+* [_Improving the webometrics approach for profiling Italian Universities by using web analytics data._](https://coms.events/NTTS2021/data/abstracts/en/abstract_0034.html)
+<br/> **Synthèse : Travail assez marrant sur lequel ils analysent les sites web des universités pour les classer. C'est marrant, mais là tout de suite je ne vois pas d'application pour nous (on pourrait faire la même chose, même avec le SSM de l'Enseignement Supérieur, mais je ne suis pas sûr que ce soit notre rôle ?)
+<br/> [**Lien vers l'abstract**](https://coms.events/NTTS2021/data/x_abstracts/x_abstract_188.docx)
+<br/> **Utilité évaluée à court terme :** <img src="etoile.png" alt="1 étoile" height="20px"/>
+
+### Séance "Spotlight session - Data collection and integration"  [Présentations très courtes]
